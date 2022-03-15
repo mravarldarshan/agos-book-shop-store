@@ -30,12 +30,12 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
   </head>
   <body>
-    <div class="page login-page">
+    <div class="page login-page" >
       <div class="container">
         <div class="form-outer text-center d-flex align-items-center">
           <div class="form-inner">
             <div class="logo text-uppercase"><span>Agos </span><strong class="text-primary"> Dashboard</strong></div>
-            <p>Agos E-gadget Online Shoping site in India - Shop Online for Electronics Gadgets,  </p>
+            <p>Agos Online book Shoping site in India - Shop book Online ,  </p>
             <form method="post" action="adminlogin" class="text-left form-validate">
               <div class="form-group-material">
                 @csrf

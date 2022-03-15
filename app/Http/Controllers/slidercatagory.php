@@ -12,7 +12,7 @@ class slidercatagory extends Controller
          public function getdata($catagory='mobile'){
 
           if(Session::get('firstname') || Session::get('lastname')||Session::get('streetaddress')||Session::get('zip')||Session::get('city')||Session::get('email')||Session::get('phone')||Session::get('payment')|| Session::get('amount')){
-            Session::forget('firstname');
+            Session::forget('firstname');// Removes a specific variable
             Session::forget('lastname');
             Session::forget('streetaddress');
             Session::forget('city');

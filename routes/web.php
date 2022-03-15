@@ -121,7 +121,7 @@ route::get('pro_detail/{id}',[Pro_detail_Controller::class,'productDetail']);
 route::post('orderplace',[OrderPlace::class,'order']);
 route::get('logout',function(){
     if(Session::get('userdata')){
-        Session::pull('userdata');
+        Session::pull('userdata');//diestry session
       
             return redirect('login')->with(Session::get('profileupdate'));
         

@@ -80,11 +80,11 @@ if(Session::get("userdata")){
                 <div class="ht-left">
                     <div class="mail-service">
                         <i class=" fa fa-envelope"></i>
-                       <a class='mail' href=''>agosegadgets@gmail.com
+                       <a class='mail' href=''>agosBookstore@gmail.com
 </a>            </div>
                     <div class="phone-service">
                         <i class=" fa fa-phone"></i>
-                        +65 11.188.888
+                        +91 8531452351
                     </div>
                     
                 </div>
@@ -377,9 +377,9 @@ if(Session::get("userdata")){
                         <div class="footer-logo">
                         </div>
                         <ul>
-                            <li>Address: 60-49 Road 11378 New York</li>
-                            <li>Phone: +65 11.188.888</li>
-                            <li>Email: agosegadget@gmail.com</li>
+                            <li>Address: shop no:20 stya nager,kojve rode,surat,pin code: 395004</li>
+                            <li>Phone: +91 8531452351</li>
+                            <li>Email: agosBookstore@gmail.com</li>
                         </ul>
                         <div class="footer-social">
                             <a href="#"><i class="fa fa-facebook my-2"></i></a>
